@@ -129,7 +129,7 @@ div .icon {
 
 /* ##################### BIGGER SCREENS ###################### */
 
-@media (min-width: 375px) {
+@media (min-width: 768px) {
 	main {
 		display: -webkit-box;
 		display: -ms-flexbox;
